@@ -1,0 +1,1 @@
+this is a zoo website that I created using FNB Academy lessons. To launch the website, click the index and you will go to website page which displays the map as its home page and the options to guide you and get information about the zoo before you visit.
